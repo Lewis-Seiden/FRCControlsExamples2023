@@ -1,0 +1,9 @@
+{
+  "NTProvider": {
+    "types": {
+      "/FMSInfo": "FMSInfo",
+      "/Robot/m_robotContainer/armSubsystem/armM2d": "Mechanism2d",
+      "/Robot/m_robotContainer/elevatorSubsystem/elevatorM2d": "Mechanism2d"
+    }
+  }
+}
